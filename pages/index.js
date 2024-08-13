@@ -31,7 +31,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Farm Type Identifier 🌾</h1>
         <p className={styles.description}>
-          Enter the coordinates of a farm in Saudi Arabia to identify if it's a tomato or melon farm.
+         Enter the coordinates of a farm in Saudi Arabia to identify if it&apos;s a tomato or melon farm.
         </p>
         <div className={styles.grid}>
           <input
